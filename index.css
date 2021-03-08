@@ -5,6 +5,15 @@
   font-family: 'Poppins', sans-serif;
 }
 
+.name{
+ font-size: 150%;
+ font-weight: bold;
+}
+
+.logo{
+text-align:center;
+}
+
 p{
 text-align:justify;
 }
