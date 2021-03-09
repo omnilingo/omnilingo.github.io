@@ -30,6 +30,8 @@ body{
 .wrapper{
   max-width: 450px;
   margin: 0 auto 0 auto;
+  background-color: lightgray;
+  padding: 1em;
 }
 
 .wrapper .search-input{
