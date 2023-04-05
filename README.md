@@ -1,1 +1,1 @@
-# omnilingo.xyz
+# omnilingo.cc
